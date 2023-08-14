@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-oscarmb",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarblanco86/random-str-msg-oscarmb.git"
+  },
+  "keywords": [],
+  "author": "Oscar Barajas <oscar@platzi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscarblanco86/random-str-msg-oscarmb/issues"
+  },
+  "homepage": "https://github.com/oscarblanco86/random-str-msg-oscarmb#readme",
+  "bin": {
+    "random-str-msg-oscarmb": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
